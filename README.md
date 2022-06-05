@@ -1,6 +1,6 @@
 # MyReads Project
 
-feat: Create "My reads" interactivr app using react.js
+feat: Create "My reads" interactive app using react.js
 
 My reads application enables user to categorize books in currently reading, want to read or read shelves. A search page is added to select books
 
